@@ -270,16 +270,13 @@ class GarminHandler:
         current_balance_cell.value = float(current_balance + float(cal_data['money_earned']))
 
 
-user_kangmin = {'username': 'xukangmin',
-                'password': 'xKm@340331387',
-                'name': 'Kangmin'}
 users = [
-            {'username': 'xukangmin',
-             'password': 'xKm@340331387',
-             'name': 'Kangmin'},
-            {'username': 'yaoti1989@gmail.com',
-             'password': 'wszdaGL@1989',
-             'name': 'Ti'}
+            {'username': 'XXXX',
+             'password': 'XXXX',
+             'name': 'xxxx'},
+            {'username': 'XXXX',
+             'password': 'XXXX',
+             'name': 'XXXX'}
         ]
 
 for singleUser in users:
